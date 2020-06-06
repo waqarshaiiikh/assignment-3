@@ -1,0 +1,59 @@
+   .social_media_iconic{
+      height: 5mm;
+      width: 5 mm;
+      padding-right: 20px; 
+      position: relative;
+      top: 20px; 
+   
+   }
+
+
+
+
+.footer{
+   background-color:#25272E ;
+   margin-top: 200px;
+   /* min-height:400px ; */
+   display: flex;
+   justify-content: space-around;
+   
+   flex-wrap: nowrap;
+}
+.headoffice{
+margin:50px ;
+}
+.ink{
+   margin: 50px;
+}
+.ink img{
+   max-width: 40px;
+}
+.ink h4{
+   color: #F7F8FA;
+}
+.headoffice p{
+   color: #B1B1B2;
+}
+.headoffice img{
+   width: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
